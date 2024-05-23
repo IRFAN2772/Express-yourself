@@ -1,6 +1,5 @@
 # Express-yourself
 
-Sure! Here is an elaborated version for your README file, detailing the steps to run the project:
 
 Steps to Run This Project
 Follow these steps to set up and run the project on your local machine.
@@ -14,7 +13,7 @@ Clone the Repository:
 First, clone the repository to your local machine. Open your terminal or command prompt and run:
 
 
-git clone https://github.com/yourusername/your-repository-name.git
+git clone (https://github.com/IRFAN2772/Express-yourself/edit/main)
 Navigate to the project directory:
 
 
