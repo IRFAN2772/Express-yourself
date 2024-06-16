@@ -13,7 +13,7 @@ Clone the Repository:
 First, clone the repository to your local machine. Open your terminal or command prompt and run:
 
 
-**git clone (https://github.com/IRFAN2772/Express-yourself/edit/main)**
+**git clone (https://github.com/IRFAN2772/Express-yourself)**
 + Navigate to the project directory:
 
 
